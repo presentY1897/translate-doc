@@ -9,7 +9,7 @@ collection of standard mathematical functions.
 The following [arithmetic operators](https://en.wikipedia.org/wiki/Arithmetic#Arithmetic_operations)
 are supported on all primitive numeric types:
 
-| Expression | Name           | Description                            |
+| 표현식 | 이름 | 설명 |
 |:---------- |:-------------- |:-------------------------------------- |
 | `+x`       | unary plus     | the identity operation                 |
 | `-x`       | unary minus    | maps values to their additive inverses |
